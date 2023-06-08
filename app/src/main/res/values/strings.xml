@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Egor_delivery</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+]
+    <string name="info" translatable="false">Информация о курьере:  </string>
+    <string name="firm" translatable="false">Ф</string>
+    <string name="type_of_package" translatable="false">П</string>
+    <string name="delivery_address" translatable="false">А_О</string>
+    <string name="picking_address" translatable="false">А_К</string>
+    <string name="price" translatable="false">С</string>
+    <string name="accept_the_order" translatable="false">В</string>
+    <string name="button_clear" translatable="false">Очистить</string>
+    <string name="button_ok" translatable="false">Ok</string>
+    <string name="admin_mode" translatable="false">Режим админа</string>
+    <string name="delete" translatable="false">Удалить</string>
+    <string name="add" translatable="false">Добавить</string>
+    <string name="firm_res" translatable="false">Firm:</string>
+    <string name="type" translatable="false">Type:</string>
+    <string name="ao" translatable="false">Адрес отправки:</string>
+    <string name="ak" translatable="false">Адрес конечный:</string>
+    <string name="price_res" translatable="false">Стоимость:</string>
+</resources>
